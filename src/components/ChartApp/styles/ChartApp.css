@@ -1,0 +1,13 @@
+.chart-app {
+    width: 900px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.chart-app__sidebar {
+    width: 200px;
+}
+
+.chart-app__main {
+    flex-grow: 1;
+}

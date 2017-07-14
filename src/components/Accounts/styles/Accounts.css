@@ -1,0 +1,9 @@
+.accounts__title {
+    font-size: 24px;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+.accounts__add-form {
+    padding: 10px 0;
+}
